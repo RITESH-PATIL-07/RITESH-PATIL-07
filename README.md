@@ -1,21 +1,36 @@
-# 💫 About Me:
-Hi, I’m Ritesh Paithankar, a third-year Computer Science Engineering student at ICEEM College with hands-on experience gained through multiple internships, including InfoByte, Cognifyz, CodTech, ShadowFox, CodSoft, Dhoot Pvt. Ltd., and AIVARIANT.<br>I am deeply passionate about technology and problem-solving, with a strong inclination toward software development, full-stack web development, and AI-driven systems. Over the years, I have built a solid programming foundation in C, C++, Java, and Python, along with practical experience in web technologies such as HTML, CSS, JavaScript, PHP, and MySQL. I am comfortable working in Linux environments and enjoy exploring new tools, frameworks, and emerging technologies.<br>Beyond core development, I have actively worked on real-world, impact-oriented projects, including AI-based systems, assistive technologies, and data-driven applications, which have strengthened my ability to convert ideas into functional, scalable solutions. My internship experiences have helped me develop strong problem-solving skills, adaptability, and an understanding of professional development workflows.<br>I am particularly motivated to grow as a software engineer and full-stack developer, and I actively seek opportunities that challenge me technically while allowing me to collaborate, learn, and contribute meaningfully.<br>Outside of academics, I enjoy listening to music, playing chess, staying updated with technology trends, and participating in coding competitions to continuously refine my skills.
+# Ritesh Paithankar
 
+![Animated introduction](./assets/hero.svg?v=1)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/h3llo_world_dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/ritesh-paithankar-4b43a828a) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@H3LLOWORLDDEV) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riteshpaithankar00@gmail.com) 
+![About and interests](./assets/about-life.svg?v=1)
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=plastic&logo=julia&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=plastic) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=plastic&logo=xbox&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=plastic&logo=Twilio&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RITESH-PATIL-07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RITESH-PATIL-07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RITESH-PATIL-07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Technology stack](./assets/stack.svg?v=1)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RITESH-PATIL-07&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Selected milestones](./assets/id-dashboard.svg?v=1)
+
+## Projects
+
+| Project | About |
+| --- | --- |
+| **SanketVani** | An AI-powered multilingual, multimodal assistive communication system exploring English, Hindi, Marathi, sign language and speech recognition, NLP, text-to-speech, and visual emotion estimation. |
+| **MedMatrix** | A healthcare-focused AI project exploring FastAPI, graph and vector search, and evidence verification. |
+
+> Project repository links were not supplied, so no URLs are guessed.
+
+## Experience
+
+Internship experience includes InfoByte, Cognifyz, CodTech, ShadowFox, CodSoft, Dhoot Pvt. Ltd., AIVARIANT, and QSpiders.
+
+## Selected highlights
+
+- Avishkar bronze medalist
+- Research paper author
+- Selected as a Google Student Ambassador for 2026
+
+![Connect with Ritesh](./assets/connect.svg?v=1)
+
+[LinkedIn](https://www.linkedin.com/in/ritesh-paithankar-4b43a828a) · [Instagram](https://instagram.com/h3llo_world_dev) · [YouTube](https://youtube.com/@H3LLOWORLDDEV) · [Email](mailto:riteshpaithankar00@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RITESH-PATIL-07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Upload checklist:** Create or open the public repository named RITESH-PATIL-07. Upload README.md and these seven files under assets/: hero.svg, about-life.svg, stack.svg, id-dashboard.svg, connect.svg, id.png, and right_pointing.png. Commit the changes, then visit https://github.com/RITESH-PATIL-07 to check images and links on desktop and mobile.
